@@ -1,0 +1,8 @@
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\bin\Debug\Practica1-Ejercicio1 (Bernardo Garcia).exe.config
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\bin\Debug\Practica1-Ejercicio1 (Bernardo Garcia).exe
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\bin\Debug\Practica1-Ejercicio1 (Bernardo Garcia).pdb
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\obj\Debug\Practica1-Ejercicio1 (Bernardo Garcia).csproj.AssemblyReference.cache
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\obj\Debug\Practica1-Ejercicio1 (Bernardo Garcia).csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\obj\Debug\Practica1-Ejercicio1 (Bernardo Garcia).csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\obj\Debug\Practica1-Ejercicio1 (Bernardo Garcia).exe
+D:\Proyectos Progra III\Practica1-Ejercicio1 (Bernardo Garcia)\Practica1-Ejercicio1 (Bernardo Garcia)\obj\Debug\Practica1-Ejercicio1 (Bernardo Garcia).pdb
